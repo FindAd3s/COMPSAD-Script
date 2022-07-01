@@ -10,9 +10,5 @@ Setup Instructions
 4. Create the necessary database titled 'fies" on MySQL
 
 5. Running the script
-    a. First run of the script
-        - Run 'initializeTable.py' to create the necessary table on the MySQL database
-    
-    b. Every other run of the script
-        - Run 'uploadToMySQL.py' to publish the edits done onto the Excel file attached.
-        - Before running, save the excel file to ensure that the data is successfully uploaded.
+    - Before running, save the excel file to ensure that the data is successfully uploaded.
+    - Run 'uploadToMySQL.py' to publish the edits done onto the Excel file attached.
